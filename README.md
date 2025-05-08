@@ -12,7 +12,7 @@ Payload Capacity – Can lift up to 1500 grams over a range of 1 km.
 🔧 Hardware Components:
 
 Raspberry Pi 4 + PiCamera v1.3
-Brushless Motors (82212) + 30A ESCs
+Brushless Motors (A2212) + 30A ESCs
 GPS Module
 5200mAh Li-Po Battery
 Drone Frame, Flight Controller, Propellers
